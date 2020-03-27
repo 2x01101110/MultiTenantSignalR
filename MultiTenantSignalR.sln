@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29814.53
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiTenantSignalR.Hub", "MultiTenantSignalR.Hub\MultiTenantSignalR.Hub.csproj", "{922B3E89-905D-4AE1-BC16-B71EFC220A69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{922B3E89-905D-4AE1-BC16-B71EFC220A69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{922B3E89-905D-4AE1-BC16-B71EFC220A69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{922B3E89-905D-4AE1-BC16-B71EFC220A69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{922B3E89-905D-4AE1-BC16-B71EFC220A69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA5BCBB4-848A-41FC-BC2D-6843D08AC655}
+	EndGlobalSection
+EndGlobal
